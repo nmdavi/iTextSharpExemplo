@@ -1,10 +1,6 @@
 # iText Sharp Exemplo
 
-Leitura e criação de PDF usando a biblioteca iTextSharp, feito em Windows Forms com C#.
-
-Contato: davimendonca@protonmail.com
-
-LinkedIn: www.linkedin.com/in/davi-mendonca
+Reading and creating PDF using the iTextSharp library, done in Windows Forms with C#.
 
 ![Imagem 1](https://github.com/NMDavi/iTextSharpExemplo/blob/master/paginaPDF1.png)
 
